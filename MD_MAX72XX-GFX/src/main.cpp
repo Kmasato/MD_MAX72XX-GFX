@@ -1,7 +1,5 @@
 #include <Arduino.h>
 #include <MD_MAX72xx.h>
-#include <MD_Parola.h>
-
 #include <Adafruit_GFX.h>
 
 /* LED Matrix settings */
